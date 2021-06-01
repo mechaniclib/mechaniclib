@@ -1,31 +1,70 @@
 Intro.
 
-Hear/Speak/Read/Write/Software/Algorithm
-Voice
-Text
-Memory
-Processor
-Experience
-Data
-Learning
+Human Creation Status:
+Virtuality Object Classes
 
 Industry/Engineerings/Hardware/Machine
 Agriculture
 Textile
 Construction
 
+Engine
+Mobility
+
 Plumbing
 Electronic
 Telecommunication
-
-Mobility
 Logistics
 Biology
+Energy
 
-Science/Parametric/Cmputation
+
+Science/Parametric/Cmputation/Variation
 Physics
 Chemistry
+Geometry
 Analysis
 Statistics
-Quantum Mechanics
 Computer Science
+Quantum Mechanic
+
+
+Hear/Speak/Read/Write/Software/Algorithm
+Identification
+Dictionary
+Editory
+Compilation
+Document
+Book
+Libraries
+Voice
+Text
+Memory
+Process
+Instruction
+Experience
+Data
+Learning
+
+
+Culture/Life/Style
+People
+Family
+Friends
+Society
+Religion
+Phylosophy
+Economy
+Justice
+Administration
+Food
+Fashion
+Regidensial
+Politic
+Poetry
+Novel
+Art
+Music
+Drama
+Movie
+Stories
