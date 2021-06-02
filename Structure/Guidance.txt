@@ -1,1 +1,7 @@
 Structure docs for build projects :)
+
+Instructions
+
+Listen/Speak from idea
+Read/Write from tools
+Update/Delete from experiences of dataset
