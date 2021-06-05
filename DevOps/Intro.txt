@@ -1,0 +1,4 @@
+### About DevOps
+
+DevOps is phylosophy about development that mean Development and Operation with Lifecycle Solutions.
+It can be work on Agile Software Development Organizations.
